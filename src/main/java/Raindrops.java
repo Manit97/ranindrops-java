@@ -1,6 +1,6 @@
 public class Raindrops {
 
-    String convert(int num){
+    String convertFactorsToPlingPlangPlong(int num){
         String digits = "";
         if (isFactor(num, 3))
             digits+= "Pling";
